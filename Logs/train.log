@@ -1,0 +1,7 @@
+Wed, 26 Jan 2022 16:14:04 WARNING `period` argument is deprecated. Please use `save_freq` to specify the frequency in number of batches seen.
+Wed, 26 Jan 2022 16:14:04 INFO not found gpu device,convert to use cpu
+Wed, 26 Jan 2022 16:17:46 WARNING Found untraced functions such as mish_layer_call_and_return_conditional_losses, mish_layer_call_fn, mish_layer_call_fn, mish_layer_call_and_return_conditional_losses, mish_layer_call_and_return_conditional_losses while saving (showing 5 of 5). These functions will not be directly callable after loading.
+Wed, 26 Jan 2022 16:17:46 WARNING Found untraced functions such as mish_layer_call_and_return_conditional_losses, mish_layer_call_fn, mish_layer_call_fn, mish_layer_call_and_return_conditional_losses, mish_layer_call_and_return_conditional_losses while saving (showing 5 of 5). These functions will not be directly callable after loading.
+Wed, 26 Jan 2022 16:17:46 INFO Assets written to: ./Output/LeNet5/assets
+Wed, 26 Jan 2022 16:17:46 INFO model has been saved
+Wed, 26 Jan 2022 16:17:46 INFO model has been frozen
