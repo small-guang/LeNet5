@@ -26,4 +26,5 @@ LeNet5 这个网络包含了深度学习的基本模块：卷积层，池化层�
 - [x] network.py 网络结构
 - [x] plt.py 查看数据集
 - [x] train_model.py 模型训练
-- [x] predict.py 模型预测    
+- [x] predict.py 模型预测   
+- [ ] c++ DNN 
